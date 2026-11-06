@@ -1,6 +1,6 @@
 <?php
 
-namespace Ammar\Belajar;
+namespace AmmarZiddan\Belajar;
 
 class Customer
 {
